@@ -18,7 +18,7 @@
 
 ![Neon-Blaze's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neon-Blaze&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neon-Blaze&theme=dark)
 
 
 <br>
