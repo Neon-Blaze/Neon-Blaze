@@ -21,5 +21,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neon-Blaze&theme=dark)
 
 
-<br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
