@@ -14,7 +14,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,github,git,postman,figma)](https://skillicons.dev)
 
 ![Neon-Blaze's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neon-Blaze&show_icons=true&theme=dark)
 
