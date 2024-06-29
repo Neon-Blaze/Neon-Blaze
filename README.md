@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Sonu</h1>
 
 - 🔭 I’m currently working on Javascript
-- 🌱 I’m currently learning Backend
+- 🌱 I’m currently learning Backend and App development
   
 ### Connect with me:
 <div id="badges">
